@@ -11,7 +11,7 @@ This repository contains the source code for the paper **"SOLAR: Scalable Distri
 3. [Environment](#environment)
 4. [Code Structure](#code-structure)
 5. [Quick Start](#quick-start)
-
+6. [Appendix](./Appendix.pdf)
 ---
 
 ## Overview
